@@ -1,4 +1,4 @@
-<h2>YouTube Comment Preview Blocker</h2>
+<h2>YouTube Comment Preview Blocker (m.youtube.com only)</h2>
 You want to avoid spoilers? This content filter list blocks the comment preview underneath the YouTube Video Player (Mobile Site Only).
 
 <h3>Compatibility:</h3>
