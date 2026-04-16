@@ -1,0 +1,31 @@
+<h2>YouTube Comment Preview Blocker</h2>
+You want to avoid spoilers? This content filter list blocks the comment preview underneath the YouTube Video Player (Mobile Site Only).
+
+<h3>Compatibility:</h3>
+<pre>
+AdGuard
+Brave Browser
+uBlock Origin
+and other content blockers that support custom filters</pre>
+
+<h3>How to install?</h3>
+
+
+<pre>URL:
+https://raw.githubusercontent.com/jncrocks/YouTube-Comment-Preview-Blocker/refs/heads/main/blockPreview.txt
+</pre>
+
+<h4>Brave:</h4>
+<pre>1. Copy the URL above
+2. Click or Tap Brave Browser Icon in the address bar then press "Global Defaults" or "Change Shields Global Defaults"
+3. Go to Content Filtering
+4. 
+  a.For iOS or Android, tap "Add Filter by URL" then paste the URL that you've copied above then tap "Apply" or
+  b.For Windows, Mac, or Linux, paste the URL you've copied above then click "Add"</pre>
+
+<h4>uBlock Origin:</h4>
+<pre>1. Copy the URL above
+2. Click the uBlock icon then click the gears icon
+3. Go to "Filter list" tab at the top of the page 
+4. Scroll down until you find "Import" option
+5. Paste the URL then click "Apply Changes" button</pre>
