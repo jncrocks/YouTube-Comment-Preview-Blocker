@@ -1,4 +1,3 @@
 [Adblock Plus 2.0]
 ! Title: YouTube Comment Preview Blocker (Mobile Site Only)
-
 youtube.com##yt-comment-teaser-carousel-item-view-model
